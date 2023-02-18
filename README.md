@@ -14,5 +14,5 @@ For some reason facepunch has blocked servers with Russian ip ranges. This is a 
 - Play <br> ![image](https://user-images.githubusercontent.com/39582793/219871382-6e07583f-505b-477d-8b58-21ccea2ed5e6.png)
 
 # Credits
-Original idea - [@Exec7](https://github.com/Exec7)
-Implementation - me
+- Original idea - [@Exec7](https://github.com/Exec7)
+- Implementation - me
